@@ -31,9 +31,9 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   ),
 
   [1] = LAYOUT_universal(
-    KC_GRAVE , KC_1     , KC_2     , KC_3    , KC_4     , KC_5     ,                                         KC_6     , KC_7     , KC_8     , KC_9     , KC_0     , KC_EQUAL ,
-    ________ , KC_NO    , KC_NO    , KC_NO   , KC_NO    , KC_NO    ,                                         KC_NO    , KC_NO    , KC_NO    , KC_NO    , KC_NO    , KC_BSLS  ,
-    ________ , _______  , KC_NO    , KC_NO   , KC_NO    , KC_LBRC  ,                                         KC_RBRC  , KC_NO    , KC_NO    , KC_NO    , KC_NO    , _______  ,
+    KC_GRAVE  , KC_1     , KC_2     , KC_3    , KC_4     , KC_5     ,                                         KC_6     , KC_7     , KC_8     , KC_9     , KC_0     , KC_EQUAL ,
+    _________ , KC_NO    , KC_NO    , KC_NO   , KC_NO    , KC_NO    ,                                         KC_NO    , KC_NO    , KC_NO    , KC_NO    , KC_NO    , KC_BSLS  ,
+    _________ , _______  , KC_NO    , KC_NO   , KC_NO    , KC_LBRC  ,                                         KC_RBRC  , KC_NO    , KC_NO    , KC_NO    , KC_NO    , _______  ,
                           _______  , _______ , _______  , _______  , _______  ,                   _______  , _______  , _______  ,            _______  , _______
   ),
 
